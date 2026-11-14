@@ -232,12 +232,6 @@ nexus-corporate-bank-powerbi/
 
 ---
 
-## 🙏 Credits & Scope
-
-Built while following a guided Power BI course: **[TUTORIAL NAME / LINK]**. The dataset comes with the course.
-**What I added:** [EDIT THIS: e.g. business-problem framing, finance glossary deck, data dictionary, reconciliation checks, written insights and recommendations].
-
----
 
 ## 👤 Author
 
